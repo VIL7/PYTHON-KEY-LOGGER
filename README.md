@@ -20,5 +20,5 @@ Unauthorized use of this tool against systems you do not have explicit permissio
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/VIL7/python-keylogger.git](https://github.com/VIL7/python-keylogger.git)
-   cd python-keylogger
+   git clone [https://github.com/VIL7/python-key-logger.git](https://github.com/VIL7/python-key-logger.git)
+   cd python-key-logger
